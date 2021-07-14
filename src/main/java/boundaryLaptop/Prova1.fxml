@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="boundaryLaptop.BoundaryProva1">
+   <children>
+      <Label fx:id="label" layoutX="150.0" layoutY="133.0" prefHeight="101.0" prefWidth="262.0" text="Carico altra schermata con successo" />
+   </children>
+</Pane>
